@@ -19,7 +19,7 @@ Automatic Cooling System: The project features an automatic cooling system that 
 Project Air Security addresses the common issue of inadequate ventilation in classrooms, which can lead to a buildup of CO2. By providing a proactive solution, it mitigates the negative impact of poor air quality on students' well-being and academic performance.
 
 In conclusion, Project Air Security stands as a valuable tool for educational institutions, creating a healthier and more conducive atmosphere for learning. By tackling the problem of high CO2 levels head-on, this Arduino-based project contributes to the overall well-being and success of students and educators alike.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=_________________________________________________________________________________________________!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=_____________________________________>______________________________!)](https://git.io/typing-svg)
 
 Школьный исследовательский проект, целью которого является улучшение качества образования учащихся в НИШ и за его пределами!
 
