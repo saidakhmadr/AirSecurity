@@ -12,6 +12,8 @@ Project Air Security is an innovative Arduino-based solution designed to monitor
 
 CO2 Monitoring: The primary advantage of Project Air Security is its ability to monitor carbon dioxide levels in real-time. Elevated CO2 levels can lead to reduced cognitive function and concentration, affecting students' academic performance. By constantly measuring CO2, the system helps maintain an environment conducive to learning.
 
+https://роботехника18.рф/wp-content/uploads/2016/08/dht22-lcd-arduino.jpg
+
 Automatic Cooling System: The project features an automatic cooling system that activates when CO2 levels reach a critical point. This not only prevents discomfort but also addresses health concerns associated with prolonged exposure to high CO2 concentrations.User-Friendly Interface: The system is designed with a user-friendly interface, allowing educators and administrators to easily interpret the data. Visual indicators and alerts make it simple to understand the current air quality status and take necessary actions.
 
 Project Air Security addresses the common issue of inadequate ventilation in classrooms, which can lead to a buildup of CO2. By providing a proactive solution, it mitigates the negative impact of poor air quality on students' well-being and academic performance.
