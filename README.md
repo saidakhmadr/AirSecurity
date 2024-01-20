@@ -4,5 +4,5 @@
 <h3 align="center">Computer science student, Competitive programmer from Kazakhstan! 🇰🇿</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Arduino+CO2+Monitor!)](https://git.io/typing-svg)
-
+#0ABF53
 A school research project that aims to improve the quality of education of students at NIS and beyond!
